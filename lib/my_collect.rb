@@ -5,5 +5,3 @@ def my_collect(array)
   end
   return return_array
 end
-
-
